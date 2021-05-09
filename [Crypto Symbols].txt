@@ -1,0 +1,6 @@
+﻿--------------------------------
+Name    | Code | Symbol | HTML Code
+--------------------------------
+Litecoin = LTC => Ł => &#321;
+Dogecoin = DOGE => Đ => &#272;
+Bitcoin = BTC => Ƀ => &#579;
